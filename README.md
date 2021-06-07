@@ -1,3 +1,3 @@
-# learn Git
+# Learn Git
 
-some text.
+some text!
